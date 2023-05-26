@@ -6,7 +6,7 @@ Figma file: https://www.figma.com/community/file/1175262836322989600/ToDo-List-%
 
 # Demo
 
-To see a demo of the app, visit this link: https://vercel-todo-five.vercel.app/
+To see a demo of the app, visit this link: https://vercel-todo-yalealves.vercel.app/
 
 # Technology used
 
